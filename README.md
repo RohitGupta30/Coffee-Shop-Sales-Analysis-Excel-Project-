@@ -86,3 +86,4 @@ The analysis highlights strong customer footfall and consistent revenue generati
 By focusing on upselling, cross-selling, and optimizing low-performing products, the business can significantly enhance its overall profitability.
 
 🖼️ Dashboard Preview :-
+https://github.com/RohitGupta30/Coffee-Shop-Sales-Analysis-Excel-Project-/blob/main/03_Coffee%20Shop%20Sales%20Dashboard.png
